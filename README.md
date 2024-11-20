@@ -1,6 +1,4 @@
-# 🏎️ Carrera #
-
-## 🎥 Project Overview ##
+# Carrera #
 Este proyecto simula una carrera de vehículos. Aquí he usado conceptos de Programación Orientada a Objetos (OOP) como la Herencia y el Polimorfismo para crear un sistema en el que coches, motos y camiones compartan atributos, pero que cada uno pueda acelerar y frenar uno más rápido, otros más lentos.
 
 ## 💡 Conceptos aprendidos ##
